@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.monsterhunterinventory"
+    namespace "com.blake.monsterhunterinventory"
     defaultConfig {
-        applicationId "com.monsterhunterinventory"
+        applicationId "com.blake.monsterhunterinventory"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
